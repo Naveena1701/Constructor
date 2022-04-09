@@ -18,6 +18,11 @@ public class Sample {
 		System.out.println("New method added by Navi");
 
 	}
+
+	private void newnisamethd() {
+		System.out.println("New method added by Nisa");
+	}
+
 	public static void main(String[] args) {
 		Sample s=new Sample(45);
 	}
